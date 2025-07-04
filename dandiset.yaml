@@ -11,15 +11,60 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Fiber photometry of SNr GABAergic neurons during optogenetic stimulation
-  of STN and PPN inputs in freely moving mice (2025). (Version draft) [Data set].
-  DANDI Archive. https://dandiarchive.org/dandiset/001528/draft
+citation: Hadjas, Lotfi; Hollon, Nick; Hnasko, Thomas (2025) Fiber photometry of SNr
+  GABAergic neurons during optogenetic stimulation of STN and PPN inputs in freely
+  moving mice (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001528/draft
 contributor:
 - awardNumber: 1 R01 NS 138598-01A1
   name: National Institutes of Health (NIH)
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- awardNumber: ASAP-020600
+  identifier: https://ror.org/03zj4c476
+  name: Aligning Science Across Parkinson's (ASAP)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://parkinsonsroadmap.org/
+- email: lhadjas@health.ucsd.edu
+  identifier: 0000-0003-1605-3601
+  includeInCitation: true
+  name: Hadjas, Lotfi
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  - dcite:ContactPerson
+  - dcite:Methodology
+  - dcite:Conceptualization
+  - dcite:FormalAnalysis
+  schemaKey: Person
+  url: https://researcherprofiles.org/profile/204843534
+- email: nghollon@ucsd.edu
+  identifier: 0000-0003-4827-1582
+  includeInCitation: true
+  name: Hollon, Nick
+  roleName:
+  - dcite:Author
+  - dcite:ContactPerson
+  - dcite:FormalAnalysis
+  - dcite:Conceptualization
+  - dcite:Methodology
+  - dcite:Investigation
+  schemaKey: Person
+  url: https://profiles.ucsd.edu/nicholas.hollon
+- email: thnasko@ucsd.edu
+  identifier: 0000-0001-6176-8513
+  includeInCitation: true
+  name: Hnasko, Thomas
+  roleName:
+  - dcite:Author
+  - dcite:Conceptualization
+  - dcite:ContactPerson
+  - dcite:Methodology
+  - dcite:FundingAcquisition
+  schemaKey: Person
+  url: https://profiles.ucsd.edu/thomas.hnasko
 dateCreated: '2025-07-04T12:55:24.985404+00:00'
 description: This dataset contains fiber photometry recordings from substantia nigra
   reticulata (SNr) GABAergic neurons in freely moving mice during optogenetic stimulation
@@ -49,7 +94,13 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001528/versions/draft/assets/
 name: Fiber photometry of SNr GABAergic neurons during optogenetic stimulation of
   STN and PPN inputs in freely moving mice
-relatedResource: []
+relatedResource:
+- name: Parkinson’s Disease-vulnerable and -resilient dopamine neurons display opposite
+    responses to excitatory input
+  relation: dcite:Describes
+  resourceType: dcite:Preprint
+  schemaKey: Resource
+  url: https://doi.org/10.1101/2025.06.03.657460
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
