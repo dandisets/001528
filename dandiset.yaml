@@ -65,6 +65,11 @@ contributor:
   - dcite:FundingAcquisition
   schemaKey: Person
   url: https://profiles.ucsd.edu/thomas.hnasko
+- email: alessandramaria.trapani@gmail.com
+  name: Trapani, Alessandra
+  roleName:
+  - dcite:DataCurator
+  schemaKey: Person
 dateCreated: '2025-07-04T12:55:24.985404+00:00'
 description: This dataset contains fiber photometry recordings from substantia nigra
   reticulata (SNr) GABAergic neurons in freely moving mice during optogenetic stimulation
@@ -97,7 +102,7 @@ name: Fiber photometry of SNr GABAergic neurons during optogenetic stimulation o
 relatedResource:
 - name: Parkinson’s Disease-vulnerable and -resilient dopamine neurons display opposite
     responses to excitatory input
-  relation: dcite:Describes
+  relation: dcite:IsDescribedBy
   resourceType: dcite:Preprint
   schemaKey: Resource
   url: https://doi.org/10.1101/2025.06.03.657460
