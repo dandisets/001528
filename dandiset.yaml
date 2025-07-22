@@ -106,6 +106,13 @@ relatedResource:
   resourceType: dcite:Preprint
   schemaKey: Resource
   url: https://doi.org/10.1101/2025.06.03.657460
+- identifier: https://github.com/catalystneuro/hnasko-lab-to-nwb
+  name: hnasko-lab-to-nwb
+  relation: dcite:IsCompiledBy
+  repository: Github
+  resourceType: dcite:Software
+  schemaKey: Resource
+  url: https://github.com/catalystneuro/hnasko-lab-to-nwb
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
