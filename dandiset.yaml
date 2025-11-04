@@ -91,7 +91,7 @@ description: "This dataset contains fiber photometry recordings examining differ
   Striatal recordings show differential regional responses, with increased dopamine
   release in caudal striatum but inhibition followed by rebound in dorsolateral striatum.\
   \  Each session includes raw and processed fiber photometry signals (demodulated
-  calcium/isosbestic traces, downsampled signals, and ΔF/F), precisely-timed optogenetic
+  calcium/isosbestic traces, downsampled signals, and DF/F), precisely-timed optogenetic
   stimulation epochs, and behavioral videos where available."
 ethicsApproval: []
 id: DANDI:001528/draft
