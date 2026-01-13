@@ -11,7 +11,7 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Hadjas, Lotfi; Hollon, Nick; Hnasko, Thomas (2025) Fiber photometry of SNc/SNr
+citation: Hadjas, Lotfi; Hollon, Nick; Hnasko, Thomas (2026) Fiber photometry of SNc/SNr
   dopamine and GABA neuron responses to optogenetic STN and PPN stimulation in Parkinson's
   disease (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001528/draft
 contributor:
@@ -70,7 +70,6 @@ contributor:
   roleName:
   - dcite:DataCurator
   schemaKey: Person
-- {}
 dateCreated: '2025-07-04T12:55:24.985404+00:00'
 description: "This dataset contains fiber photometry recordings examining differential
   responses of Parkinson's disease (PD)-vulnerable and -resilient dopamine neuron
