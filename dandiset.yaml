@@ -91,7 +91,12 @@ contributor:
   - dcite:FundingAcquisition
   schemaKey: Person
   url: https://profiles.ucsd.edu/thomas.hnasko
-- email: alessandramaria.trapani@gmail.com
+- affiliation:
+  - identifier: https://ror.org/01d74sk53
+    name: CatalystNeuro
+    schemaKey: Affiliation
+  email: alessandramaria.trapani@gmail.com
+  includeInCitation: false
   name: Trapani, Alessandra
   roleName:
   - dcite:DataCurator
