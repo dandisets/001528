@@ -15,9 +15,9 @@ about:
 - name: PPN
   schemaKey: Anatomy
 access:
-- embargoedUntil: '2028-03-10'
+- embargoedUntil: '2026-08-20'
   schemaKey: AccessRequirements
-  status: dandi:EmbargoedAccess
+  status: dandi:OpenAccess
 assetsSummary:
   approach: []
   dataStandard:
@@ -96,6 +96,7 @@ contributor:
     name: CatalystNeuro
     schemaKey: Affiliation
   email: alessandramaria.trapani@gmail.com
+  identifier: 0000-0001-5182-0541
   includeInCitation: false
   name: Trapani, Alessandra
   roleName:
