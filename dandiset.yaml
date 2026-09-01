@@ -160,6 +160,13 @@ relatedResource:
   resourceType: dcite:Software
   schemaKey: Resource
   url: https://github.com/catalystneuro/hnasko-lab-to-nwb
+- name: Example Notebook
+  relation: dcite:IsSupplementedBy
+  repository: GitHub
+  resourceType: dcite:ComputationalNotebook
+  schemaKey: Resource
+  url: 
+    https://github.com/dandi/example-notebooks/tree/master/001528/HnaskoLab/Lotfi_2025
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
